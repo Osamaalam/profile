@@ -34,6 +34,6 @@ This portfolio serves as a demonstration of my skills in building modern, respon
 - Tailwind's reponsive webdesign
 - Git commands to upload the project
 
-### Footer
+### Web View
+![image](https://github.com/Osamaalam/profile/assets/93863284/e7eaf27d-b7f4-42af-860c-4f3814e1324b)
 
-![image](link)
