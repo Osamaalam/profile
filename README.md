@@ -1,3 +1,5 @@
+Updated: 2025-08-04
+
 ## Introduction
 
 This repository showcases a practice portfolio website built with a focus on modern development practices. It utilizes the following technologies:
@@ -36,4 +38,3 @@ This portfolio serves as a demonstration of my skills in building modern, respon
 
 ### Web View
 ![image](https://github.com/Osamaalam/profile/assets/93863284/e7eaf27d-b7f4-42af-860c-4f3814e1324b)
-
